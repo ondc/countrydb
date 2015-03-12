@@ -1,0 +1,36 @@
+{
+  "name": "countrydb",
+  "version": "0.1.0",
+
+  "description": "Country and region codes DB for node.js",
+  "keywords": [
+    "code",
+    "country",
+    "province",
+    "region",
+    "state",
+
+    "iso 3166",
+    "iso 3166-2"
+  ],
+
+  "homepage": "https://github.com/jshq/countrydb",
+  "bugs": {
+    "url": "https://github.com/jshq/countrydb/issues"
+  },
+
+  "contributors": [{
+    "name": "Petr Kobalicek",
+    "email": "kobalicek.petr@gmail.com",
+    "url": "http://kobalicek.com"
+  }],
+
+  "license": "Unlicense",
+
+  "main": "index.js",
+
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/jshq/countrydb.git"
+  }
+}
